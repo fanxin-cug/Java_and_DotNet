@@ -1,0 +1,10 @@
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojAssemblyReference.cache
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\obj\Debug\MyNotepad.formNotepad.resources
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb

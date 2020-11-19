@@ -1,0 +1,10 @@
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\bin\Debug\WeatherQuery.exe.config
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\bin\Debug\WeatherQuery.exe
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\bin\Debug\WeatherQuery.pdb
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\obj\Debug\WeatherQuery.Form1.resources
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\obj\Debug\WeatherQuery.Properties.Resources.resources
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\obj\Debug\WeatherQuery.csproj.GenerateResource.cache
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\obj\Debug\WeatherQuery.csproj.CoreCompileInputs.cache
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\obj\Debug\WeatherQuery.exe
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\obj\Debug\WeatherQuery.pdb
+C:\Users\fanxin806\Documents\Visual Studio 2017\Projects\WeatherQuery\WeatherQuery\obj\Debug\WeatherQuery.csprojAssemblyReference.cache
