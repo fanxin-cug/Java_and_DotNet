@@ -1,7 +1,7 @@
 # Java_and_DotNet
 My course projects of Java &amp; .NET software development
 
-# 学生信息管理系统
+## 学生信息管理系统
 
 A.登录
 ![image](http://github.com/fanxin-cug/Java_and_DotNet/raw/master/images/1.png)
@@ -22,10 +22,10 @@ D.删除
 ![image](http://github.com/fanxin-cug/Java_and_DotNet/raw/master/images/db1.png)
 ![image](http://github.com/fanxin-cug/Java_and_DotNet/raw/master/images/db2.png)
 
-# MyNotepad
+## MyNotepad
 ![image](http://github.com/fanxin-cug/Java_and_DotNet/raw/master/Proj1/1_1.png)
 ![image](http://github.com/fanxin-cug/Java_and_DotNet/raw/master/Proj1/1_2.png)
 
-# WeatherQuery
+## WeatherQuery
 ![image](http://github.com/fanxin-cug/Java_and_DotNet/raw/master/Proj1/2_1.png)
 ![image](http://github.com/fanxin-cug/Java_and_DotNet/raw/master/Proj1/2_2.png)
